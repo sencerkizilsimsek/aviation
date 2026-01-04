@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+venv/
+.venv/
+.cache/
+
+# Configuration files with sensitive data
+# Note: config.yaml.example is tracked, but config.yaml should not contain real API keys
+# For production, use Streamlit Secrets instead
+

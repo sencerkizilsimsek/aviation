@@ -1,0 +1,61 @@
+# THY Cadet Pilot Prep - Configuration File Example
+# ==========================================
+# Copy this file to config.yaml and fill in your values
+# For production, use Streamlit Secrets instead of putting API keys here
+
+# Gemini API Configuration
+gemini:
+  # Your Gemini API key (get from https://makersuite.google.com/app/apikey)
+  # For production: Leave empty and use Streamlit Secrets
+  api_key: ""  # Leave empty to disable AI features, or set your key here
+  
+  # Model to use (gemini-1.5-flash is faster, gemini-1.5-pro is more capable)
+  # If not available, you'll be prompted to select from available models
+  model: "gemini-1.5-flash"
+  
+  # Global enable/disable for all AI features
+  enabled: false
+
+# Page-specific AI Enhancement Settings
+# Set to true to enable Gemini additions for each page
+ai_enhancements:
+  # Aviation Dictionary - Gemini will suggest additional terms
+  dictionary: true
+  
+  # Aviation News - Gemini will fetch and summarize recent news
+  news: true
+  
+  # Aviation History - Gemini will suggest additional historical events
+  history: true
+  
+  # Future of Aviation - Gemini will add recent developments
+  future: true
+  
+  # Fleet Page - Gemini will add additional fleet insights
+  fleet: true
+  
+  # Destinations Page - Gemini will add destination insights
+  destinations: true
+  
+  # Training Aircraft Pages - Gemini will add additional tips
+  training_aircraft: false
+
+# AI Content Display Settings
+ai_display:
+  # Show AI-generated content in a distinct visual style
+  highlight_ai_content: true
+  
+  # Color for AI content indicator (hex color)
+  indicator_color: "#9b59b6"  # Purple
+  
+  # Show disclaimer about AI-generated content
+  show_disclaimer: true
+
+# Cache Settings (to avoid repeated API calls)
+cache:
+  # Enable caching of AI responses
+  enabled: true
+  
+  # Cache duration in hours
+  duration_hours: 24
+
