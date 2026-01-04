@@ -4,7 +4,7 @@ __pycache__/
 .streamlit/secrets.toml
 venv/
 .venv/
-.cache/
+# .cache/
 
 # Configuration files with sensitive data
 # Note: config.yaml.example is tracked, but config.yaml should not contain real API keys

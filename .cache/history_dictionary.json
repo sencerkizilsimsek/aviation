@@ -1,0 +1,292 @@
+[
+  {
+    "timestamp": "2026-01-05T01:14:39.532905",
+    "data": [
+      {
+        "term": "CRM",
+        "full_name": "Crew Resource Management",
+        "category": "Human Factors",
+        "difficulty": "Intermediate",
+        "definition": "A system of training that aims to improve crew coordination, communication, and decision-making to enhance safety and efficiency in aviation operations."
+      },
+      {
+        "term": "MCP",
+        "full_name": "Mode Control Panel",
+        "category": "Instruments",
+        "difficulty": "Intermediate",
+        "definition": "The cockpit panel used by pilots to manually select and engage autopilot and autothrottle modes."
+      },
+      {
+        "term": "PFD",
+        "full_name": "Primary Flight Display",
+        "category": "Instruments",
+        "difficulty": "Basic",
+        "definition": "A display in the cockpit that shows critical flight information such as airspeed, altitude, attitude, heading, and vertical speed."
+      },
+      {
+        "term": "ND",
+        "full_name": "Navigation Display",
+        "category": "Instruments",
+        "difficulty": "Basic",
+        "definition": "A display in the cockpit that shows navigation information, including the aircraft's position relative to waypoints, VORs, and airways."
+      },
+      {
+        "term": "TCAS",
+        "full_name": "Traffic Alert and Collision Avoidance System",
+        "category": "Instruments",
+        "difficulty": "Intermediate",
+        "definition": "An airborne system designed to prevent mid-air collisions by detecting and providing advisories to the crew about other aircraft that may pose a collision risk."
+      },
+      {
+        "term": "QNH",
+        "full_name": "Altimeter Setting (Local Mean Sea Level Pressure)",
+        "category": "Instruments",
+        "difficulty": "Basic",
+        "definition": "The atmospheric pressure at mean sea level, used to set an altimeter so that it indicates true altitude when the aircraft is on the ground at a field elevation."
+      },
+      {
+        "term": "FE",
+        "full_name": "Flight Engineer",
+        "category": "Flight Operations",
+        "difficulty": "Intermediate",
+        "definition": "A crew member responsible for monitoring and operating aircraft systems, particularly on older or larger aircraft types, although the role is less common in modern multi-crew aircraft."
+      },
+      {
+        "term": "FMS",
+        "full_name": "Flight Management System",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "A computer system that automates a variety of tasks for pilots, such as flight plan management, navigation, and performance calculations."
+      },
+      {
+        "term": "FL",
+        "full_name": "Flight Level",
+        "category": "Flight Operations",
+        "difficulty": "Basic",
+        "definition": "A specific altitude, expressed in hundreds of feet, used for cruising at high altitudes where pressure variations are significant. It is based on a standard atmospheric pressure setting."
+      },
+      {
+        "term": "ADIRS",
+        "full_name": "Air Data Inertial Reference System",
+        "category": "Instruments",
+        "difficulty": "Advanced",
+        "definition": "An integrated system that combines air data computer (ADC) and inertial reference unit (IRU) functions to provide essential flight parameters to the flight deck."
+      },
+      {
+        "term": "CFIT",
+        "full_name": "Controlled Flight Into Terrain",
+        "category": "Emergencies",
+        "difficulty": "Intermediate",
+        "definition": "An accident in which an airworthy aircraft, under the complete control of the pilot, is unintentionally flown into the ground, a mountain, water, or other obstacle."
+      },
+      {
+        "term": "MSA",
+        "full_name": "Minimum Sector Altitude",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "The lowest altitude which may be used under IFR (Instrument Flight Rules) which provides the required obstacle clearance for the area and which is within the coverage of the relevant navigation aid."
+      },
+      {
+        "term": "EFB",
+        "full_name": "Electronic Flight Bag",
+        "category": "Instruments",
+        "difficulty": "Basic",
+        "definition": "A digital device used by pilots to display flight information such as navigation charts, manuals, and checklists, replacing paper documents."
+      },
+      {
+        "term": "WU",
+        "full_name": "Wake Turbulence",
+        "category": "Aerodynamics",
+        "difficulty": "Basic",
+        "definition": "Disturbances in the atmosphere that form behind an aircraft as it passes through the air, caused by the generation of lift and the subsequent formation of wingtip vortices."
+      },
+      {
+        "term": "MEL",
+        "full_name": "Minimum Equipment List",
+        "category": "Regulations",
+        "difficulty": "Intermediate",
+        "definition": "A document that specifies the equipment that can be inoperative for a specific aircraft to legally continue flying under certain conditions."
+      },
+      {
+        "term": "DE-ICE",
+        "full_name": "De-icing",
+        "category": "Aircraft Systems",
+        "difficulty": "Basic",
+        "definition": "The process of removing ice or frost from an aircraft's surfaces before flight to restore aerodynamic efficiency."
+      },
+      {
+        "term": "ANTI-ICE",
+        "full_name": "Anti-icing",
+        "category": "Aircraft Systems",
+        "difficulty": "Basic",
+        "definition": "The process of preventing the formation of ice on an aircraft's surfaces during flight through the use of heating systems or chemical fluids."
+      },
+      {
+        "term": "SID",
+        "full_name": "Standard Instrument Departure",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "A published IFR air traffic control procedure used by departing aircraft to transition from the take-off phase of flight to the en route phase of flight."
+      },
+      {
+        "term": "STAR",
+        "full_name": "Standard Terminal Arrival Route",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "A published IFR air traffic control procedure used by arriving aircraft to transition from the en route phase of flight to an approach phase of flight."
+      },
+      {
+        "term": "FOD",
+        "full_name": "Foreign Object Debris",
+        "category": "Airport",
+        "difficulty": "Basic",
+        "definition": "Any object or substance foreign to the aircraft or airport that could cause damage to the aircraft."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-05T01:14:31.047284",
+    "data": [
+      {
+        "term": "QNH",
+        "full_name": "Altimeter Setting",
+        "category": "Instruments",
+        "difficulty": "Basic",
+        "definition": "The atmospheric pressure at mean sea level (MSL) for the current location.  It is used to set the altimeter so that it indicates altitude above MSL when on the ground."
+      },
+      {
+        "term": "QFE",
+        "full_name": "Altimeter Setting",
+        "category": "Instruments",
+        "difficulty": "Basic",
+        "definition": "The atmospheric pressure at the airfield. When set on the altimeter, it indicates height above the airfield reference point."
+      },
+      {
+        "term": "METAR",
+        "full_name": "Meteorological Aerodrome Report",
+        "category": "Meteorology",
+        "difficulty": "Basic",
+        "definition": "A standardized aviation routine weather report broadcast every hour (or more frequently if needed) for an airport. It provides current weather conditions."
+      },
+      {
+        "term": "TAF",
+        "full_name": "Terminal Aerodrome Forecast",
+        "category": "Meteorology",
+        "difficulty": "Basic",
+        "definition": "A forecast of weather conditions for a specific airport, issued typically for a 24 or 30-hour period. It includes expected changes over time."
+      },
+      {
+        "term": "NOTAM",
+        "full_name": "Notice to Airmen",
+        "category": "Communications",
+        "difficulty": "Basic",
+        "definition": "A notice containing information of the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations."
+      },
+      {
+        "term": "SID",
+        "full_name": "Standard Instrument Departure",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "A designated track and altitude to be flown by aircraft departing from an airport under IFR conditions. It simplifies ATC procedures and ensures terrain clearance."
+      },
+      {
+        "term": "STAR",
+        "full_name": "Standard Terminal Arrival Route",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "A designated track and altitude to be flown by aircraft arriving at an airport under IFR conditions. It guides aircraft from the en-route phase to the approach phase."
+      },
+      {
+        "term": "EFB",
+        "full_name": "Electronic Flight Bag",
+        "category": "Aircraft Systems",
+        "difficulty": "Intermediate",
+        "definition": "A digital device used to replace paper flight manuals, charts, and other information carried by pilots. It can enhance situational awareness and reduce pilot workload."
+      },
+      {
+        "term": "TCAS",
+        "full_name": "Traffic Alert and Collision Avoidance System",
+        "category": "Aircraft Systems",
+        "difficulty": "Intermediate",
+        "definition": "An airborne system designed to detect and prevent aircraft collisions. It provides visual and auditory alerts to the flight crew."
+      },
+      {
+        "term": "GPWS",
+        "full_name": "Ground Proximity Warning System",
+        "category": "Aircraft Systems",
+        "difficulty": "Intermediate",
+        "definition": "A system designed to alert pilots of potential ground proximity hazards. It uses radar altimeter data and terrain databases to warn of impending crashes."
+      },
+      {
+        "term": "FL",
+        "full_name": "Flight Level",
+        "category": "Flight Operations",
+        "difficulty": "Basic",
+        "definition": "A constant pressure altitude, expressed in hundreds of feet, that an aircraft is cleared to fly. It is used in controlled airspace to maintain vertical separation."
+      },
+      {
+        "term": "MSA",
+        "full_name": "Minimum Sector Altitude",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "The lowest altitude which may be used under emergency conditions which is also adequate, in respect of terrain and obstacle clearance, to be used by an aircraft operating on an IFR flight plan."
+      },
+      {
+        "term": "MDA",
+        "full_name": "Minimum Descent Altitude",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "The lowest altitude, expressed in feet above mean sea level, to which a descent is permitted on final approach or during a missed approach. It ensures obstacle clearance."
+      },
+      {
+        "term": "DH",
+        "full_name": "Decision Height",
+        "category": "Navigation",
+        "difficulty": "Intermediate",
+        "definition": "The altitude at which, during an instrument approach, the pilot must decide to either continue the approach or initiate a missed approach. It is typically used with precision approaches."
+      },
+      {
+        "term": "ICAO Annex 1",
+        "full_name": "Personnel Licensing",
+        "category": "Regulations",
+        "difficulty": "Intermediate",
+        "definition": "The International Civil Aviation Organization document that sets the standards and recommended practices for the licensing of aviation personnel worldwide. It ensures a consistent level of pilot competence."
+      },
+      {
+        "term": "ICAO Annex 2",
+        "full_name": "Rules of the Air",
+        "category": "Regulations",
+        "difficulty": "Intermediate",
+        "definition": "The International Civil Aviation Organization document that outlines the globally harmonized rules governing air traffic. It ensures safe and orderly air travel."
+      },
+      {
+        "term": "ICAO Annex 6",
+        "full_name": "Operation of Aircraft",
+        "category": "Regulations",
+        "difficulty": "Intermediate",
+        "definition": "The International Civil Aviation Organization document that specifies the standards for the operation of aircraft, including commercial air transport. It covers areas like flight planning, performance, and crew responsibilities."
+      },
+      {
+        "term": "CRM",
+        "full_name": "Crew Resource Management",
+        "category": "Human Factors",
+        "difficulty": "Intermediate",
+        "definition": "A training program focused on improving crew coordination, communication, and decision-making to enhance flight safety. It emphasizes teamwork and shared responsibility."
+      },
+      {
+        "term": "STP",
+        "full_name": "Standard Takeoff Procedure",
+        "category": "Flight Operations",
+        "difficulty": "Basic",
+        "definition": "The standardized steps and actions a pilot follows during the takeoff phase of a flight. It ensures all pre-takeoff checks are completed and the aircraft is properly configured."
+      },
+      {
+        "term": "SOP",
+        "full_name": "Standard Operating Procedure",
+        "category": "Flight Operations",
+        "difficulty": "Basic",
+        "definition": "A set of detailed, written instructions that describe how to perform a specific task or activity within an airline. SOPs are crucial for standardization and safety."
+      }
+    ]
+  }
+]
